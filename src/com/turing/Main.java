@@ -12,6 +12,8 @@ public class Main {
     public void show(){
         System.out.println("show...");
 
+        System.out.println("我是dev中添加的一句话");
+
         System.out.println("我是master中添加的一句话");
     }
 }
